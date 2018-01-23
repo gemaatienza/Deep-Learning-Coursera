@@ -71,18 +71,3 @@ Code:
   - [Week 2 - Residual Networks]()
   
 - Course 5: Sequence Models
-
-## Important Slide Notes
-
-I screenshotted some important slide page and store them into GitHub issues. It seems not very helpful for everyone since I only keep those I think may be useful to me.
-
-- [Screenshots for Course 1: Neural Networks and Deep Learning](https://github.com/Kulbear/deep-learning-coursera/issues/1)
-
-- [Screenshots for Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/Kulbear/deep-learning-coursera/issues/2)
-
-- [Screenshots for Course 3: Structuring Machine Learning Projects](https://github.com/Kulbear/deep-learning-coursera/issues/3)
-
-- [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/Kulbear/deep-learning-coursera/issues/14)
-
-- Screenshots for Course 5: Sequence Models
-
