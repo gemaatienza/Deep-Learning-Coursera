@@ -21,11 +21,11 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand the key parameters in a neural network's architecture. 
 
   Code:
-  - [Week 2 - Phyton Basics with Numpy](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Python%20Basics%20With%20Numpy%20v3.ipynb)
-  - [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v3.ipynb)
-  - [Week 3 - Planar data classification with a hidden layer](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer%20v4.ipynb)
-  - [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v5.ipynb)
-  - [Week 4 - Deep Neural Network: Application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application%20v3.ipynb)
+  + [Week 2 - Phyton Basics with Numpy](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Python%20Basics%20With%20Numpy%20v3.ipynb)
+  + [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v3.ipynb)
+  + [Week 3 - Planar data classification with a hidden layer](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer%20v4.ipynb)
+  + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v5.ipynb)
+  + [Week 4 - Deep Neural Network: Application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application%20v3.ipynb)
 
 - **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
@@ -54,7 +54,7 @@ This repo contains all my work for this specialization. All the code base and im
    Code:
     - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
   
-- Course 4: Convolutional Neural Networks
+- **Course 4: Convolutional Neural Networks**
 
   Objectives:  
   + Understand how to build a convolutional neural network, including recent variations such as residual networks.
@@ -68,7 +68,7 @@ This repo contains all my work for this specialization. All the code base and im
   - [Week 2 - Keras - Tutorial - Happy House]()
   - [Week 2 - Residual Networks]()
   
-- Course 5: Sequence Models
+- **Course 5: Sequence Models**
   Objectives:
   + Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
   + Be able to apply sequence models to natural language problems, including text synthesis. 
