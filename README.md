@@ -31,19 +31,7 @@ Currently, this repository has XXX major parts:
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  Objectives:
-  + Recall that different types of initializations lead to different results
-  + Recognize the importance of initialization in complex neural networks.
-  + Recognize the difference between train/dev/test sets
-  + Diagnose the bias and variance issues in your model
-  + Learn when and how to use regularization methods such as dropout or L2 regularization.
-  + Understand experimental issues in deep learning such as Vanishing or Exploding gradients and learn how to deal with them
-  + Use gradient checking to verify the correctness of your backpropagation implementation
-  + Remember different optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
-  + Use random minibatches to accelerate the convergence and improve the optimization
-  + Know the benefits of learning rate decay and apply it to your optimization
-  + Master the process of hyperparameter tuning
-  
+  Objectives:  
   + Understand industry best-practices for building deep learning applications. 
   + Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
   + Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
@@ -70,9 +58,9 @@ Code:
   + Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
   
   - Understand how to diagnose errors in a machine learning system, and 
-- Be able to prioritize the most promising directions for reducing error
-- Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-- Know how to apply end-to-end learning, transfer learning, and multi-task learning
+  - Be able to prioritize the most promising directions for reducing error
+  - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
+  - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
 
    Code:
