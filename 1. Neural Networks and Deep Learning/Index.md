@@ -10,4 +10,4 @@
 - Deep Neural Network - Application v3.ipynb
 
 
-Every image required to view correctly previous jupyter notebooks are stored in `images` folder
+Every image required to view correctly previous Jupyter Notebooks are stored in `images` folder
