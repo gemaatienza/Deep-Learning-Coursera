@@ -43,6 +43,12 @@ Currently, this repository has XXX major parts:
   + Use random minibatches to accelerate the convergence and improve the optimization
   + Know the benefits of learning rate decay and apply it to your optimization
   + Master the process of hyperparameter tuning
+  
+  + Understand industry best-practices for building deep learning applications. 
+  + Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
+  + Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
+  + Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
+  + Be able to implement a neural network in TensorFlow. 
 
 Code:
   - [Week 1 - Initialization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
@@ -62,6 +68,12 @@ Code:
   + Take the correct ML Strategic decision based on observations of performances and dataset
   + Understand what multi-task learning and transfer learning are
   + Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+  
+  - Understand how to diagnose errors in a machine learning system, and 
+- Be able to prioritize the most promising directions for reducing error
+- Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
+- Know how to apply end-to-end learning, transfer learning, and multi-task learning
+
 
    Code:
     - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
