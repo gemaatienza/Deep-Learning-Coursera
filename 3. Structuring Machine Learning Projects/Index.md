@@ -1,5 +1,5 @@
 
-**Objectives:**
+## Objectives
   - Understand why Machine Learning strategy is important
   - Apply satisficing and optimizing metrics to set up your goal for ML projects
   - Choose a correct train/dev/test split of your dataset
