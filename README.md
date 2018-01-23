@@ -45,7 +45,6 @@ Currently, this repository has XXX major parts:
   + Master the process of hyperparameter tuning
 
 Code:
-
   - [Week 1 - Initialization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - Regularization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
   - [Week 1 - Gradient Checking](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.ipynb)
@@ -54,9 +53,26 @@ Code:
 
 - Course 3: Structuring Machine Learning Projects
 
-  - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
+  Objectives:
+  + Understand why Machine Learning strategy is important
+  + Apply satisficing and optimizing metrics to set up your goal for ML projects
+  + Choose a correct train/dev/test split of your dataset
+  + Understand how to define human-level performance
+  + Use human-level perform to define your key priorities in ML projects
+  + Take the correct ML Strategic decision based on observations of performances and dataset
+  + Understand what multi-task learning and transfer learning are
+  + Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
+
+   Code:
+    - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
   
 - Course 4: Convolutional Neural Networks
+
+  Objectives:
+  + Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+  + Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+  + Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+  + Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
 
   - [Week 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   - [Week 1 - Convolutional Model: application]()
@@ -64,29 +80,6 @@ Code:
   - [Week 2 - Residual Networks]()
   
 - Course 5: Sequence Models
-
-## Quiz Solutions
-
-- Course 1: Neural Networks and Deep Learning
-
-  - [Week 1 Quiz - Introduction to deep learning](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)
-  - [Week 2 Quiz - Neural Network Basics](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202%20Quiz%20-%20Neural%20Network%20Basics.md)
-  - [Week 3 Quiz - Shallow Neural Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203%20Quiz%20-%20%20Shallow%20Neural%20Networks.md)
-  - [Week 4 Quiz - Key concepts on Deep Neural Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.md)
-
-- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-
-  - [Week 1 Quiz - Practical aspects of deep learning](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201%20Quiz%20-%20Practical%20aspects%20of%20deep%20learning.md)
-  - [Week 2 Quiz - Optimization algorithms](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202%20Quiz%20-%20Optimization%20algorithms.md)
-  - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203%20Quiz%20-%20Hyperparameter%20tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.md)
-  
-- Course 3: Structuring Machine Learning Projects
-
-  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
-  - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
-
-- ~~Course 4: Convolutional Neural Networks~~
-- ~~Course 5: Sequence Models~~
 
 ## Important Slide Notes
 
