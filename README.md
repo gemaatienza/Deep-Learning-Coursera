@@ -58,19 +58,15 @@ Code:
   
 - Course 4: Convolutional Neural Networks
 
-  Objectives:
-  + Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
-  + Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
-  + Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
-  + Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
-  
+  Objectives:  
   + Understand how to build a convolutional neural network, including recent variations such as residual networks.
   + Know how to apply convolutional networks to visual detection and recognition tasks.
   + Know to use neural style transfer to generate art.
   + Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
-  - [Week 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
-  - [Week 1 - Convolutional Model: application]()
+  Code:
+  - [Week 1 - Convolutional Model: step by step]()
+  - [Week 1 - Convolutional Model: application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - Keras - Tutorial - Happy House]()
   - [Week 2 - Residual Networks]()
   
