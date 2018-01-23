@@ -36,7 +36,7 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
   + Be able to implement a neural network in TensorFlow. 
 
-Code:
+  Code:
   - [Week 1 - Initialization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - Regularization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
   - [Week 1 - Gradient Checking](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.ipynb)
