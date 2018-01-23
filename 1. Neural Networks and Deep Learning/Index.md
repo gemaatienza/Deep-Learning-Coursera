@@ -9,6 +9,5 @@
 - Building your Deep Neural Network - Step by Step v5.ipynb
 - Deep Neural Network - Application v3.ipynb
 
-Every image required to view correctly previous jupyter notebooks are stored in "images" folder
 
-Las imágenes necesarias para que se puedan ver correctamente los jupyter notebooks anteriores están dentro de la carpeta 'images'
+Every image required to view correctly previous jupyter notebooks are stored in `images` folder
