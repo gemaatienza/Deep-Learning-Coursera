@@ -6,15 +6,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
-## What I want to say
+*In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.*
 
-**VERBOSE CONTENT WARNING: YOU CAN JUMP TO THE NEXT SECTION IF YOU WANT**
-
-As a CS major student and a long-time self-taught learner, I have completed many CS related MOOCs on Coursera, Udacity, Udemy, and Edx. I do understand the hard time you spend on understanding new concepts and debugging your program. There are discussion forums on most MOOC platforms, however, even a question with detailed description may need some time to be answered. Here I released these solutions, which are **only for your reference purpose**. It may help you to save some time. And I hope you don't copy any part of the code (the programming assignments are fairly easy if you read the instructions carefully), see the quiz solutions before you start your own adventure. This course is almost the simplest deep learning course I have ever taken, but the simplicity is based on the fabulous course content and structure. It's a treasure given by deeplearning.ai team.
-
-Currently, this repo has 3 major parts you may be interested in and I will give a list here.
+Currently, this repository has XXX major parts:
 
 ## Programming Assignments
 
@@ -85,7 +81,3 @@ I screenshotted some important slide page and store them into GitHub issues. It 
 
 - Screenshots for Course 5: Sequence Models
 
-
-## Milestones
-
-  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
