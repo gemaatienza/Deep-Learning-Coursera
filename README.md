@@ -37,11 +37,11 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to implement a neural network in TensorFlow. 
 
   Code:
-  - [Week 1 - Initialization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - Regularization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
-  - [Week 1 - Gradient Checking](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.ipynb)
-  - [Week 2 - Optimization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
-  - [Week 3 - TensorFlow](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
+  + [Week 1 - Initialization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
+  + [Week 1 - Regularization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization.ipynb)
+  + [Week 1 - Gradient Checking](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.ipynb)
+  + [Week 2 - Optimization](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
+  + [Week 3 - TensorFlow](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
 - **Course 3: Structuring Machine Learning Projects**
 
@@ -52,7 +52,7 @@ This repo contains all my work for this specialization. All the code base and im
   + Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
    Code:
-    - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
+    + There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
   
 - **Course 4: Convolutional Neural Networks**
 
@@ -63,10 +63,10 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
   Code:
-  - [Week 1 - Convolutional Model: step by step]()
-  - [Week 1 - Convolutional Model: application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  - [Week 2 - Keras - Tutorial - Happy House]()
-  - [Week 2 - Residual Networks]()
+  + [Week 1 - Convolutional Model: step by step]()
+  + [Week 1 - Convolutional Model: application](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+  + [Week 2 - Keras - Tutorial - Happy House]()
+  + [Week 2 - Residual Networks]()
   
 - **Course 5: Sequence Models**
   Objectives:
