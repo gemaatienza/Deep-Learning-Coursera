@@ -1,4 +1,4 @@
-Week 2:
+**Week 2:**
 - Python Basics With Numpy v3.ipynb
 - Logistic Regression with a Neural Network mindset v3.ipynb
 
