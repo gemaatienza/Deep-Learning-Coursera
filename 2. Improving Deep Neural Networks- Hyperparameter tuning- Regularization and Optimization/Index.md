@@ -1,4 +1,4 @@
-**Objectives:**
+## Objectives:
   - Recall that different types of initializations lead to different results
   - Recognize the importance of initialization in complex neural networks.
   - Recognize the difference between train/dev/test sets
@@ -11,13 +11,13 @@
   - Know the benefits of learning rate decay and apply it to your optimization
   - Master the process of hyperparameter tuning
   
-**Week 1:**
+## Week 1:
  - Initialization.ipynb
  - Regularization.ipynb
  - Gradient Checking v1.ipynb
  
- **Week 2:**
+ ## Week 2:
   - Optimization methods.ipynb
  
- **Week 3:**
+ ## Week 3:
   - Tensorflow Tutorial.ipynb
