@@ -47,21 +47,11 @@ Code:
 
 - Course 3: Structuring Machine Learning Projects
 
-  Objectives:
-  + Understand why Machine Learning strategy is important
-  + Apply satisficing and optimizing metrics to set up your goal for ML projects
-  + Choose a correct train/dev/test split of your dataset
-  + Understand how to define human-level performance
-  + Use human-level perform to define your key priorities in ML projects
-  + Take the correct ML Strategic decision based on observations of performances and dataset
-  + Understand what multi-task learning and transfer learning are
-  + Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets
-  
-  - Understand how to diagnose errors in a machine learning system, and 
-  - Be able to prioritize the most promising directions for reducing error
-  - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-  - Know how to apply end-to-end learning, transfer learning, and multi-task learning
-
+  Objectives:  
+  + Understand how to diagnose errors in a machine learning system, and 
+  + Be able to prioritize the most promising directions for reducing error
+  + Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
+  + Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
    Code:
     - There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
@@ -73,6 +63,11 @@ Code:
   + Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
   + Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
   + Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+  
+  + Understand how to build a convolutional neural network, including recent variations such as residual networks.
+  + Know how to apply convolutional networks to visual detection and recognition tasks.
+  + Know to use neural style transfer to generate art.
+  + Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
   - [Week 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   - [Week 1 - Convolutional Model: application]()
