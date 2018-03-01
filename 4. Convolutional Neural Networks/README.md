@@ -16,4 +16,5 @@
   - Autonomous driving application - Car detection - v1.ipynb
   
 ## Week 4:
+  - Face Recognition for the Happy House - v3.ipynb
  
