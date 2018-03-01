@@ -68,6 +68,7 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 2 - Keras - Tutorial - Happy House](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
   + [Week 2 - Residual Networks](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.ipynb)
   + [Week 3 - Autonomous driving application - Car detection](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/4.%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb)
+  + [Week 4 - Face Recognition for the Happy House - v3]()
   
 - **Course 5: Sequence Models**
   Objectives:
