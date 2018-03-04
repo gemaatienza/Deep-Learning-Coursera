@@ -17,4 +17,5 @@
   
 ## Week 4:
   - Face Recognition for the Happy House - v3.ipynb
+  - Art Generation with Neural Style Transfer - v2.ipynb
  
