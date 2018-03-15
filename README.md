@@ -78,3 +78,4 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
   
   Code:
+  + [Week 1 - Building a Recurrent Neural Network - Step by Step - v3]()
