@@ -7,6 +7,7 @@
 ## Week 1:
   - Building a Recurrent Neural Network - Step by Step - v3.ipynb
   - Dinosaurus Island -- Character level language model final - v3.ipynb
+  - Improvise a Jazz Solo with an LSTM Network - v3
   
 ## Week 2:
   - 
