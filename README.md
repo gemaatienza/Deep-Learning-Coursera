@@ -80,3 +80,4 @@ This repo contains all my work for this specialization. All the code base and im
   Code:
   + [Week 1 - Building a Recurrent Neural Network - Step by Step - v3](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.ipynb)
   + [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+  + [Week 1 - Improvise a Jazz Solo with an LSTM Network]()
