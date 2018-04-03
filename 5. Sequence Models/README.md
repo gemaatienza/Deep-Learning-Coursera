@@ -5,12 +5,12 @@
   - Sequence models & Attention mechanism.
   
 ## Week 1:
-  - Building a Recurrent Neural Network - Step by Step - v3.ipynb
-  - Dinosaurus Island -- Character level language model final - v3.ipynb
+  - Building a Recurrent Neural Network - Step by Step - v3
+  - Dinosaurus Island -- Character level language model final - v3
   - Improvise a Jazz Solo with an LSTM Network - v3
   
 ## Week 2:
-  - 
+  - Operations on word vectors - v2
   - 
   
 ## Week 3:
