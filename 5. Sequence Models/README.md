@@ -11,7 +11,7 @@
   
 ## Week 2:
   - Operations on word vectors - v2
-  - 
+  - Emojify - v2
   
 ## Week 3:
   - 
