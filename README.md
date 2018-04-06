@@ -83,3 +83,4 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
   + [Week 2 - Operations on word vectors - v2](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.ipynb)
   + [Week 2 - Emojify - v2](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Emojify%2B-%2Bv2.ipynb)
+  + [Week 3 - Neural machine translation with attention - v4](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)
